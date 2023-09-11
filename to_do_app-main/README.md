@@ -1,6 +1,6 @@
 # to_do_app
 
-A new Flutter project.
+This project is made for the purpose of internship at Code_Soft. This is the taks 1 for my internship project
 
 ## Getting Started
 
