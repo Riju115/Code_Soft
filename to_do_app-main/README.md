@@ -1,5 +1,4 @@
-# to_do_app
-
+# Task 1
 This project is made for the purpose of internship at Code_Soft. This is the taks 1 for my internship project
 
 ## Getting Started
